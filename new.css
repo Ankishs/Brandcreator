@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bg-img {
+    background-image: url(https://restfood.onlywebcoding.com.ua/images/bg-header.png);
+    background-size: cover;
+    min-height: 750px;
+    background-repeat: no-repeat;
+    /* background-position: top center; */
+    background-attachment: fixed;
+    justify-content: center;
+  }
+.header {
+    position: fixed;
+    transform: translateX(-50%);
+    top: 0;
+    left: 50%;
+    z-index: 100;
+    /* max-width: 1920px; */
+    width: 100%;
+    margin: 0 auto;
+  }
+  .bg {
+    background-image: linear-gradient(rgb(148, 17, 17), rgb(238, 165, 30));
+  }
+  .banner {
+    /* background-color: rgb(243, 247, 52); */
+    background-image: linear-gradient(orange, yellow);
+    margin-top: 20px;
+
+  }
+  .pride_h3{
+    font-size: 35px;
+  }
+  .pride_h4{
+    font-size: 15px;
+    margin-left: 70%;
+  }
+ 
+  .image_1{
+    
+    justify-content: center;
+  }
+  .Try_h2{
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  .Try_h3{
+    font-size: 30px;
+    margin-left: 50%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  .Try_p{
+    font-size: 30px;
+  }
+
+ 
+.simple_h2{
+    font-size: 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.simple_p{
+    font-size: 21px;
+}
+  .pic{
+    margin-top: 40%;
+    justify-content: center;
+    text-align: center;
+  }
+  .footer{
+    text-align: center;
+    background-image: linear-gradient(rgb(148, 17, 17), rgb(238, 165, 30));
+  }
+ 
